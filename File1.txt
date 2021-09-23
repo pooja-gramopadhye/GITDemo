@@ -1,8 +1,10 @@
 Welcome to GIT..
 
-Change for WI1 to check commit -am
+Change for WI1 to check commit -am.
 
 
 ONE DIRECTION
 
 Change for Bug 1 : Login
+
+Change for Bug 2: with conflict
